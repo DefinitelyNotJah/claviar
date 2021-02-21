@@ -1,0 +1,3 @@
+{
+	"mongodbURL": "mongodb+srv://test:test123@cluster0-hoenq.gcp.mongodb.net/type?retryWrites=true&w=majority"
+}

@@ -1,4 +1,4 @@
 backend/node_modules
-backend/config.json
-frontend/src/config.json
-frontend/node_modules
+backend/config.jso
+view/src/config.json
+view/node_modules
